@@ -1,6 +1,49 @@
 .hero {
+    background: hsl(340, 82%, 94%);
     padding-top: 150px;
-    background-color: #F2CEDA;
+    background-size: cover;
+    min-height: 862px;
+}
+
+.hero {
+    padding-top: 150px;
     background-size: cover;
     min-height: 640px;
+}
+
+.hero__subtitle {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.1em;
+    color: #0f0101;
+}
+
+.hero__title {
+    font-family: Fredoka One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 57.33px;
+    line-height: 120.5%;
+    color: #0f0101;
+    z-index: 1;
+}
+
+.title__icecream {
+    color: #D23166;
+}
+
+.hero__icecream {
+    position: absolute;
+}
+
+.hero__cream {
+    position: relative;
+
+}
+
+.hero__circle {
+    position: relative;
 }

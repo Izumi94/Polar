@@ -8,8 +8,8 @@
     margin: auto;
 }
 
-.col-6 {
-    max-width: 50;
+.col-2 {
+    width: 50%;
 }
 
 .col-4 {
