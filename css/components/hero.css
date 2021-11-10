@@ -19,6 +19,8 @@
     line-height: 16px;
     letter-spacing: 0.1em;
     color: #0f0101;
+    padding-top: 100px;
+    padding-bottom: 6px;
 }
 
 .hero__title {
@@ -28,20 +30,33 @@
     font-size: 57.33px;
     line-height: 120.5%;
     color: #0f0101;
-    z-index: 1;
+    padding-bottom: 35px;
+}
+
+.hero__description {
+    font-family: Hind Madurai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0f0101;
+    padding-bottom: 50px;
 }
 
 .title__icecream {
-    color: #D23166;
+    color: #d23166;
 }
 
 .hero__icecream {
     position: absolute;
+    right: 300px;
+    top: 100px;
 }
 
 .hero__cream {
     position: relative;
-
+    top: 70px;
+    right: 75px;
 }
 
 .hero__circle {
