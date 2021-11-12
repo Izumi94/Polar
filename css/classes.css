@@ -8,6 +8,10 @@
     margin: auto;
 }
 
+.center {
+    text-align: center;
+}
+
 .col-2 {
     width: 50%;
 }

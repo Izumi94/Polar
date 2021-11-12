@@ -1,0 +1,43 @@
+.info {
+    background: #ffff;
+    min-height: 400px;
+    width: 100%;
+}
+
+.info__row {
+    margin-top: 100px;
+    align-items: center;
+}
+
+.info__item {
+    max-width: 200px;
+    justify-content: space-between;
+}
+
+.info__img {
+    padding-bottom: 25px;
+}
+
+.info__image {
+    padding-bottom: 15px;
+}
+
+.info__title {
+    font-family: Hind Madurai;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #000000;
+}
+
+.info__description {
+    font-family: Hind Madurai;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
+    opacity: 0.6;
+}
