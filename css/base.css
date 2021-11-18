@@ -3,6 +3,11 @@ body {
     font-family: "Open-Sans", sans-serif;
 }
 
+li {
+    list-style: none;
+    justify-content: space-around;
+}
+
 a {
     text-decoration: none;
 }
